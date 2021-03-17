@@ -1,0 +1,17 @@
+.bg-calm {
+	background-color: #F3F5EE;
+}
+
+@font-face {
+	font-family: "QuickPen";
+	src: url("../fonts/QuickPen.eot");
+	src:
+	url("../fonts/QuickPen.woff") format("woff"),
+	url("../fonts/QuickPen.otf") format("opentype"),
+	url("../fonts/QuickPen.svg#filename") format("svg");
+	}
+
+
+.main-title{
+	font-family: 'QuickPen';
+}
